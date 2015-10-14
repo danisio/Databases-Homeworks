@@ -1,0 +1,429 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<directories>
+  <dir name="02.ProcessingXMLin.NET">
+    <file name="02.ProcessingXMLin.NET.sln" />
+    <file name="ProcessingXMLin.NET.sln" />
+    <file name="ProcessingXMLin.NET.v12.suo" />
+    <file name="README.md" />
+    <dir name="files">
+      <file name="albums.xml" />
+      <file name="catalog.html" />
+      <file name="catalog.xml" />
+      <file name="catalog.xsd" />
+      <file name="catalog.xslt" />
+      <file name="cheapCatalog.xml" />
+      <file name="data.txt" />
+      <file name="directory.xml" />
+      <file name="directoryXDocument.xml" />
+      <file name="invalidCatalog.xml" />
+      <file name="person.xml" />
+    </dir>
+    <dir name="Task02 - Dom parser">
+      <file name="App.config" />
+      <file name="DomParser.cs" />
+      <file name="StyleCop.Cache" />
+      <file name="Task02 - Dom parser.csproj" />
+      <file name="Task02 - Dom parser.csproj.user" />
+      <dir name="bin">
+        <dir name="Debug">
+          <file name="Task02 - Dom parser.exe" />
+          <file name="Task02 - Dom parser.exe.config" />
+          <file name="Task02 - Dom parser.pdb" />
+          <file name="Task02 - Dom parser.vshost.exe" />
+          <file name="Task02 - Dom parser.vshost.exe.config" />
+        </dir>
+        <dir name="Release" />
+      </dir>
+      <dir name="obj">
+        <dir name="Debug">
+          <file name="DesignTimeResolveAssemblyReferencesInput.cache" />
+          <file name="Task02 - Dom parser.csproj.FileListAbsolute.txt" />
+          <file name="Task02 - Dom parser.csprojResolveAssemblyReference.cache" />
+          <file name="Task02 - Dom parser.exe" />
+          <file name="Task02 - Dom parser.pdb" />
+          <file name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+          <file name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+          <file name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+          <dir name="TempPE" />
+        </dir>
+      </dir>
+      <dir name="Properties">
+        <file name="AssemblyInfo.cs" />
+      </dir>
+    </dir>
+    <dir name="Task03 - XPath">
+      <file name="App.config" />
+      <file name="StyleCop.Cache" />
+      <file name="Task03 - XPath.csproj" />
+      <file name="XPath.cs" />
+      <dir name="bin">
+        <dir name="Debug">
+          <file name="Task03 - XPath.exe" />
+          <file name="Task03 - XPath.exe.config" />
+          <file name="Task03 - XPath.pdb" />
+          <file name="Task03 - XPath.vshost.exe" />
+          <file name="Task03 - XPath.vshost.exe.config" />
+        </dir>
+        <dir name="Release" />
+      </dir>
+      <dir name="obj">
+        <dir name="Debug">
+          <file name="DesignTimeResolveAssemblyReferencesInput.cache" />
+          <file name="Task03 - XPath.csproj.FileListAbsolute.txt" />
+          <file name="Task03 - XPath.exe" />
+          <file name="Task03 - XPath.pdb" />
+          <file name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+          <file name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+          <file name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+          <dir name="TempPE" />
+        </dir>
+      </dir>
+      <dir name="Properties">
+        <file name="AssemblyInfo.cs" />
+      </dir>
+    </dir>
+    <dir name="Task04 - DeleteAlbums">
+      <file name="App.config" />
+      <file name="DeleteAlbums.cs" />
+      <file name="StyleCop.Cache" />
+      <file name="Task04 - DeleteAlbums.csproj" />
+      <dir name="bin">
+        <dir name="Debug">
+          <file name="Task04 - DeleteAlbums.exe" />
+          <file name="Task04 - DeleteAlbums.exe.config" />
+          <file name="Task04 - DeleteAlbums.pdb" />
+          <file name="Task04 - DeleteAlbums.vshost.exe" />
+          <file name="Task04 - DeleteAlbums.vshost.exe.config" />
+        </dir>
+        <dir name="Release" />
+      </dir>
+      <dir name="obj">
+        <dir name="Debug">
+          <file name="DesignTimeResolveAssemblyReferencesInput.cache" />
+          <file name="Task04 - DeleteAlbums.csproj.FileListAbsolute.txt" />
+          <file name="Task04 - DeleteAlbums.exe" />
+          <file name="Task04 - DeleteAlbums.pdb" />
+          <file name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+          <file name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+          <file name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+          <dir name="TempPE" />
+        </dir>
+      </dir>
+      <dir name="Properties">
+        <file name="AssemblyInfo.cs" />
+      </dir>
+    </dir>
+    <dir name="Task05 - XmlReader">
+      <file name="App.config" />
+      <file name="StyleCop.Cache" />
+      <file name="Task05 - XmlReader.csproj" />
+      <file name="XmlReader.cs" />
+      <dir name="bin">
+        <dir name="Debug">
+          <file name="Task05 - XmlReader.exe" />
+          <file name="Task05 - XmlReader.exe.config" />
+          <file name="Task05 - XmlReader.pdb" />
+          <file name="Task05 - XmlReader.vshost.exe" />
+          <file name="Task05 - XmlReader.vshost.exe.config" />
+        </dir>
+        <dir name="Release" />
+      </dir>
+      <dir name="obj">
+        <dir name="Debug">
+          <file name="DesignTimeResolveAssemblyReferencesInput.cache" />
+          <file name="Task05 - XmlReader.csproj.FileListAbsolute.txt" />
+          <file name="Task05 - XmlReader.csprojResolveAssemblyReference.cache" />
+          <file name="Task05 - XmlReader.exe" />
+          <file name="Task05 - XmlReader.pdb" />
+          <file name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+          <file name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+          <file name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+          <dir name="TempPE" />
+        </dir>
+      </dir>
+      <dir name="Properties">
+        <file name="AssemblyInfo.cs" />
+      </dir>
+    </dir>
+    <dir name="Task06 - XDocumentLINQ">
+      <file name="App.config" />
+      <file name="StyleCop.Cache" />
+      <file name="Task06 - XDocumentLINQ.csproj" />
+      <file name="XDocumentLINQ.cs" />
+      <dir name="bin">
+        <dir name="Debug">
+          <file name="Task06 - XDocumentLINQ.exe" />
+          <file name="Task06 - XDocumentLINQ.exe.config" />
+          <file name="Task06 - XDocumentLINQ.pdb" />
+          <file name="Task06 - XDocumentLINQ.vshost.exe" />
+          <file name="Task06 - XDocumentLINQ.vshost.exe.config" />
+        </dir>
+        <dir name="Release" />
+      </dir>
+      <dir name="obj">
+        <dir name="Debug">
+          <file name="DesignTimeResolveAssemblyReferencesInput.cache" />
+          <file name="Task06 - XDocumentLINQ.csproj.FileListAbsolute.txt" />
+          <file name="Task06 - XDocumentLINQ.exe" />
+          <file name="Task06 - XDocumentLINQ.pdb" />
+          <file name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+          <file name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+          <file name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+          <dir name="TempPE" />
+        </dir>
+      </dir>
+      <dir name="Properties">
+        <file name="AssemblyInfo.cs" />
+      </dir>
+    </dir>
+    <dir name="Task07 - CreateXmlDocument">
+      <file name="App.config" />
+      <file name="CreateXmlDocument.cs" />
+      <file name="Task07 - CreateXmlDocument.csproj" />
+      <file name="Task07 - CreateXmlDocument.csproj.user" />
+      <dir name="bin">
+        <dir name="Debug">
+          <file name="Task07 - CreateXmlDocument.exe" />
+          <file name="Task07 - CreateXmlDocument.exe.config" />
+          <file name="Task07 - CreateXmlDocument.pdb" />
+          <file name="Task07 - CreateXmlDocument.vshost.exe" />
+          <file name="Task07 - CreateXmlDocument.vshost.exe.config" />
+        </dir>
+        <dir name="Release" />
+      </dir>
+      <dir name="obj">
+        <dir name="Debug">
+          <file name="DesignTimeResolveAssemblyReferencesInput.cache" />
+          <file name="Task07 - CreateXmlDocument.csproj.FileListAbsolute.txt" />
+          <file name="Task07 - CreateXmlDocument.csprojResolveAssemblyReference.cache" />
+          <file name="Task07 - CreateXmlDocument.exe" />
+          <file name="Task07 - CreateXmlDocument.pdb" />
+          <file name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+          <file name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+          <file name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+          <dir name="TempPE" />
+        </dir>
+      </dir>
+      <dir name="Properties">
+        <file name="AssemblyInfo.cs" />
+      </dir>
+    </dir>
+    <dir name="Task08 - XmlReaderXmlWriter">
+      <file name="App.config" />
+      <file name="Task08 - XmlReaderXmlWriter.csproj" />
+      <file name="XmlReaderXmlWriter.cs" />
+      <dir name="bin">
+        <dir name="Debug">
+          <file name="Task08 - XmlReaderXmlWriter.exe" />
+          <file name="Task08 - XmlReaderXmlWriter.exe.config" />
+          <file name="Task08 - XmlReaderXmlWriter.pdb" />
+          <file name="Task08 - XmlReaderXmlWriter.vshost.exe" />
+          <file name="Task08 - XmlReaderXmlWriter.vshost.exe.config" />
+        </dir>
+        <dir name="Release" />
+      </dir>
+      <dir name="obj">
+        <dir name="Debug">
+          <file name="DesignTimeResolveAssemblyReferencesInput.cache" />
+          <file name="Task08 - XmlReaderXmlWriter.csproj.FileListAbsolute.txt" />
+          <file name="Task08 - XmlReaderXmlWriter.csprojResolveAssemblyReference.cache" />
+          <file name="Task08 - XmlReaderXmlWriter.exe" />
+          <file name="Task08 - XmlReaderXmlWriter.pdb" />
+          <file name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+          <file name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+          <file name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+          <dir name="TempPE" />
+        </dir>
+      </dir>
+      <dir name="Properties">
+        <file name="AssemblyInfo.cs" />
+      </dir>
+    </dir>
+    <dir name="Task09 - TraverseDirectory">
+      <file name="App.config" />
+      <file name="Task09 - TraverseDirectory.csproj" />
+      <file name="TraverseDirectory.cs" />
+      <dir name="bin">
+        <dir name="Debug">
+          <file name="Task09 - TraverseDirectory.exe" />
+          <file name="Task09 - TraverseDirectory.exe.config" />
+          <file name="Task09 - TraverseDirectory.pdb" />
+          <file name="Task09 - TraverseDirectory.vshost.exe" />
+          <file name="Task09 - TraverseDirectory.vshost.exe.config" />
+        </dir>
+        <dir name="Release" />
+      </dir>
+      <dir name="obj">
+        <dir name="Debug">
+          <file name="DesignTimeResolveAssemblyReferencesInput.cache" />
+          <file name="Task09 - TraverseDirectory.csproj.FileListAbsolute.txt" />
+          <file name="Task09 - TraverseDirectory.csprojResolveAssemblyReference.cache" />
+          <file name="Task09 - TraverseDirectory.exe" />
+          <file name="Task09 - TraverseDirectory.pdb" />
+          <file name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+          <file name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+          <file name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+          <dir name="TempPE" />
+        </dir>
+      </dir>
+      <dir name="Properties">
+        <file name="AssemblyInfo.cs" />
+      </dir>
+    </dir>
+    <dir name="Task10 - TraverseDirectoryXDocument">
+      <file name="App.config" />
+      <file name="Task10 - TraverseDirectoryXDocument.csproj" />
+      <file name="TraverseDirectoryXDocument.cs" />
+      <dir name="bin">
+        <dir name="Debug">
+          <file name="Task10 - TraverseDirectoryXDocument.exe" />
+          <file name="Task10 - TraverseDirectoryXDocument.exe.config" />
+          <file name="Task10 - TraverseDirectoryXDocument.pdb" />
+          <file name="Task10 - TraverseDirectoryXDocument.vshost.exe" />
+          <file name="Task10 - TraverseDirectoryXDocument.vshost.exe.config" />
+        </dir>
+        <dir name="Release" />
+      </dir>
+      <dir name="obj">
+        <dir name="Debug">
+          <file name="DesignTimeResolveAssemblyReferencesInput.cache" />
+          <file name="Task10 - TraverseDirectoryXDocument.csproj.FileListAbsolute.txt" />
+          <file name="Task10 - TraverseDirectoryXDocument.csprojResolveAssemblyReference.cache" />
+          <file name="Task10 - TraverseDirectoryXDocument.exe" />
+          <file name="Task10 - TraverseDirectoryXDocument.pdb" />
+          <file name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+          <file name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+          <file name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+          <dir name="TempPE" />
+        </dir>
+      </dir>
+      <dir name="Properties">
+        <file name="AssemblyInfo.cs" />
+      </dir>
+    </dir>
+    <dir name="Task11 - OldAlbums">
+      <file name="App.config" />
+      <file name="OldAlbums.cs" />
+      <file name="Task11 - OldAlbums.csproj" />
+      <dir name="bin">
+        <dir name="Debug">
+          <file name="Task11 - OldAlbums.exe" />
+          <file name="Task11 - OldAlbums.exe.config" />
+          <file name="Task11 - OldAlbums.pdb" />
+          <file name="Task11 - OldAlbums.vshost.exe" />
+          <file name="Task11 - OldAlbums.vshost.exe.config" />
+        </dir>
+        <dir name="Release" />
+      </dir>
+      <dir name="obj">
+        <dir name="Debug">
+          <file name="DesignTimeResolveAssemblyReferencesInput.cache" />
+          <file name="Task11 - OldAlbums.csproj.FileListAbsolute.txt" />
+          <file name="Task11 - OldAlbums.csprojResolveAssemblyReference.cache" />
+          <file name="Task11 - OldAlbums.exe" />
+          <file name="Task11 - OldAlbums.pdb" />
+          <file name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+          <file name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+          <file name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+          <dir name="TempPE" />
+        </dir>
+      </dir>
+      <dir name="Properties">
+        <file name="AssemblyInfo.cs" />
+      </dir>
+    </dir>
+    <dir name="Task12 - OldAlbumsLINQ">
+      <file name="App.config" />
+      <file name="OldAlbumsLINQ.cs" />
+      <file name="Task12 - OldAlbumsLINQ.csproj" />
+      <dir name="bin">
+        <dir name="Debug">
+          <file name="Task12 - OldAlbumsLINQ.exe" />
+          <file name="Task12 - OldAlbumsLINQ.exe.config" />
+          <file name="Task12 - OldAlbumsLINQ.pdb" />
+          <file name="Task12 - OldAlbumsLINQ.vshost.exe" />
+          <file name="Task12 - OldAlbumsLINQ.vshost.exe.config" />
+        </dir>
+        <dir name="Release" />
+      </dir>
+      <dir name="obj">
+        <dir name="Debug">
+          <file name="DesignTimeResolveAssemblyReferencesInput.cache" />
+          <file name="Task12 - OldAlbumsLINQ.csproj.FileListAbsolute.txt" />
+          <file name="Task12 - OldAlbumsLINQ.csprojResolveAssemblyReference.cache" />
+          <file name="Task12 - OldAlbumsLINQ.exe" />
+          <file name="Task12 - OldAlbumsLINQ.pdb" />
+          <file name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+          <file name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+          <file name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+          <dir name="TempPE" />
+        </dir>
+      </dir>
+      <dir name="Properties">
+        <file name="AssemblyInfo.cs" />
+      </dir>
+    </dir>
+    <dir name="Task14 - Transform">
+      <file name="App.config" />
+      <file name="catalog.xslt" />
+      <file name="Task14 - Transform.csproj" />
+      <file name="Transform.cs" />
+      <dir name="bin">
+        <dir name="Debug">
+          <file name="Task14 - Transform.exe" />
+          <file name="Task14 - Transform.exe.config" />
+          <file name="Task14 - Transform.pdb" />
+          <file name="Task14 - Transform.vshost.exe" />
+          <file name="Task14 - Transform.vshost.exe.config" />
+        </dir>
+        <dir name="Release" />
+      </dir>
+      <dir name="obj">
+        <dir name="Debug">
+          <file name="DesignTimeResolveAssemblyReferencesInput.cache" />
+          <file name="Task14 - Transform.csproj.FileListAbsolute.txt" />
+          <file name="Task14 - Transform.exe" />
+          <file name="Task14 - Transform.pdb" />
+          <file name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+          <file name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+          <file name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+          <dir name="TempPE" />
+        </dir>
+      </dir>
+      <dir name="Properties">
+        <file name="AssemblyInfo.cs" />
+      </dir>
+    </dir>
+    <dir name="Task16 - ValidateSchema">
+      <file name="App.config" />
+      <file name="Task16 - ValidateSchema.csproj" />
+      <file name="ValidationSchema.cs" />
+      <dir name="bin">
+        <dir name="Debug">
+          <file name="Task16 - ValidateSchema.exe" />
+          <file name="Task16 - ValidateSchema.exe.config" />
+          <file name="Task16 - ValidateSchema.pdb" />
+          <file name="Task16 - ValidateSchema.vshost.exe" />
+          <file name="Task16 - ValidateSchema.vshost.exe.config" />
+        </dir>
+        <dir name="Release" />
+      </dir>
+      <dir name="obj">
+        <dir name="Debug">
+          <file name="DesignTimeResolveAssemblyReferencesInput.cache" />
+          <file name="Task16 - ValidateSchema.csproj.FileListAbsolute.txt" />
+          <file name="Task16 - ValidateSchema.csprojResolveAssemblyReference.cache" />
+          <file name="Task16 - ValidateSchema.exe" />
+          <file name="Task16 - ValidateSchema.pdb" />
+          <file name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+          <file name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+          <file name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+          <dir name="TempPE" />
+        </dir>
+      </dir>
+      <dir name="Properties">
+        <file name="AssemblyInfo.cs" />
+      </dir>
+    </dir>
+  </dir>
+</directories>

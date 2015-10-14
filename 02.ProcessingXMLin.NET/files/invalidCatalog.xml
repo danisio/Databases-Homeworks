@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<catalog>
+  <album>
+    <artist>Driscoll Finley</artist>
+    <year>2013</year>
+    <producer>Pascale R. Lara</producer>
+    <price>$76.80</price>
+    <songs>
+      <song>
+        <title>Candice</title>
+        <duration>2:06</duration>
+      </song>
+    </songs>
+  </album>
+</catalog>

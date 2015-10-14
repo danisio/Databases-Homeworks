@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+  <album>
+    <name>Jelani</name>
+    <artist>Brody Bolton</artist>
+    <year>1997</year>
+    <producer>Warren E. Dickson</producer>
+    <price>$12.22</price>
+    <songs>
+      <song>
+        <title>Camden</title>
+        <duration>4:41</duration>
+      </song>
+      <song>
+        <title>Whitney</title>
+        <duration>2:11</duration>
+      </song>
+      <song>
+        <title>Kaden</title>
+        <duration>4:03</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Ferris</name>
+    <artist>Fulton Knapp</artist>
+    <year>1999</year>
+    <producer>Kiara S. Sweet</producer>
+    <price>$13.57</price>
+    <songs>
+      <song>
+        <title>Madeson</title>
+        <duration>3:30</duration>
+      </song>
+      <song>
+        <title>Chava</title>
+        <duration>5:06</duration>
+      </song>
+      <song>
+        <title>Erin</title>
+        <duration>4:17</duration>
+      </song>
+      <song>
+        <title>Ivory</title>
+        <duration>4:12</duration>
+      </song>
+      <song>
+        <title>Brandon</title>
+        <duration>4:11</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Harding</name>
+    <artist>Evan Vance</artist>
+    <year>2004</year>
+    <producer>Stacey G. Banks</producer>
+    <price>$9.14</price>
+    <songs>
+      <song>
+        <title>Drake</title>
+        <duration>5:02</duration>
+      </song>
+      <song>
+        <title>Gail</title>
+        <duration>4:25</duration>
+      </song>
+      <song>
+        <title>Kyra</title>
+        <duration>5:11</duration>
+      </song>
+      <song>
+        <title>Fallon</title>
+        <duration>2:04</duration>
+      </song>
+      <song>
+        <title>Isabelle</title>
+        <duration>48:23</duration>
+      </song>
+      <song>
+        <title>Tanek</title>
+        <duration>3:23</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Daphne</name>
+    <artist>Josiah Ayala</artist>
+    <year>2001</year>
+    <producer>Willow D. Guthrie</producer>
+    <price>$2.60</price>
+    <songs>
+      <song>
+        <title>Hector</title>
+        <duration>1:37</duration>
+      </song>
+      <song>
+        <title>Xantha</title>
+        <duration>5:57</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Russell</name>
+    <artist>Maxwell Mccullough</artist>
+    <year>2006</year>
+    <producer>Yasir B. Terrell</producer>
+    <price>$19.83</price>
+    <songs>
+      <song>
+        <title>Steel</title>
+        <duration>3:55</duration>
+      </song>
+      <song>
+        <title>Alexa</title>
+        <duration>5:36</duration>
+      </song>
+      <song>
+        <title>Emmanuel</title>
+        <duration>3:18</duration>
+      </song>
+      <song>
+        <title>India</title>
+        <duration>3:56</duration>
+      </song>
+      <song>
+        <title>Frances</title>
+        <duration>5:19</duration>
+      </song>
+      <song>
+        <title>Alexandra</title>
+        <duration>5:21</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Jorden</name>
+    <artist>Gannon Sanchez</artist>
+    <year>2003</year>
+    <producer>Melinda J. Powell</producer>
+    <price>$14.17</price>
+    <songs>
+      <song>
+        <title>Griffin</title>
+        <duration>3:19</duration>
+      </song>
+      <song>
+        <title>Faith</title>
+        <duration>4:54</duration>
+      </song>
+      <song>
+        <title>Vladimir</title>
+        <duration>4:42</duration>
+      </song>
+      <song>
+        <title>Davis</title>
+        <duration>4:54</duration>
+      </song>
+      <song>
+        <title>Asher</title>
+        <duration>5:59</duration>
+      </song>
+    </songs>
+  </album>
+</catalog>
