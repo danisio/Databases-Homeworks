@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="students.xslt"?>
+<students xmlns:students="urn:students">
+  <student>
+    <name>Dagny Taggart</name>
+    <sex>female</sex>
+    <birthDate>01/01/1900</birthDate>
+    <phone>555-34-23-57</phone>
+    <email>dagny@gmail.com</email>
+    <course>Soft.technologies</course>
+    <specialty>Soft.engineer</specialty>
+    <facultyNumber>FN0000001</facultyNumber>
+    <exams>
+      <exam>
+        <name>Databases</name>
+        <tutor>Nikolay Kostov</tutor>
+        <score>Fail</score>
+      </exam>
+      <exam>
+        <name>HQC</name>
+        <tutor>Ivaylo Kenov</tutor>
+        <score>Excellent</score>
+      </exam>
+    </exams>
+  </student>
+  <student>
+    <name>John Galt</name>
+    <sex>male</sex>
+    <birthDate>02/02/2000</birthDate>
+    <phone>555-74-55-21</phone>
+    <email>john@gmail.com</email>
+    <course>Soft.technologies</course>
+    <specialty>Soft.engineer</specialty>
+    <facultyNumber>FN0000002</facultyNumber>
+    <exams>
+      <exam>
+        <name>Databases</name>
+        <tutor>Nikolay Kostov</tutor>
+        <score>Average</score>
+      </exam>
+      <exam>
+        <name>HQC</name>
+        <tutor>Ivaylo Kenov</tutor>
+        <score>Excellent</score>
+      </exam>
+    </exams>
+  </student>
+</students>
