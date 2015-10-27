@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2.StaticMethods", "Task2.StaticMethods\Task2.StaticMethods.csproj", "{EEF9DF78-AF43-4A13-8A58-C9639A60978B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3-5.ExtensionMethods", "Task3-5.ExtensionMethods\Task3-5.ExtensionMethods.csproj", "{D3AACD31-BDCF-4355-8897-46756D2BA50A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task6.CreateNewDBNorthwindTWin", "Task6.CreateNewDBNorthwindTWin\Task6.CreateNewDBNorthwindTWin.csproj", "{C7400892-8918-483F-BFA0-3B24DF9C5AAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task7.TwoDbContexts", "Task7.TwoDbContexts\Task7.TwoDbContexts.csproj", "{775BF514-ED00-4989-994D-FA491AB2B128}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1.CreateDbContext", "Task1.CreateDbContext\Task1.CreateDbContext.csproj", "{C16662DD-6889-469F-A541-B70BEE3D0C4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEF9DF78-AF43-4A13-8A58-C9639A60978B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEF9DF78-AF43-4A13-8A58-C9639A60978B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEF9DF78-AF43-4A13-8A58-C9639A60978B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEF9DF78-AF43-4A13-8A58-C9639A60978B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3AACD31-BDCF-4355-8897-46756D2BA50A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3AACD31-BDCF-4355-8897-46756D2BA50A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3AACD31-BDCF-4355-8897-46756D2BA50A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3AACD31-BDCF-4355-8897-46756D2BA50A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7400892-8918-483F-BFA0-3B24DF9C5AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7400892-8918-483F-BFA0-3B24DF9C5AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7400892-8918-483F-BFA0-3B24DF9C5AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7400892-8918-483F-BFA0-3B24DF9C5AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{775BF514-ED00-4989-994D-FA491AB2B128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{775BF514-ED00-4989-994D-FA491AB2B128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{775BF514-ED00-4989-994D-FA491AB2B128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{775BF514-ED00-4989-994D-FA491AB2B128}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C16662DD-6889-469F-A541-B70BEE3D0C4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C16662DD-6889-469F-A541-B70BEE3D0C4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C16662DD-6889-469F-A541-B70BEE3D0C4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C16662DD-6889-469F-A541-B70BEE3D0C4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
